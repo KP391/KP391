@@ -1,5 +1,9 @@
-Reloading shell(s).
+### _[ Reloading shell(s). ]_
 
+##### All puns aside I really like shell script. 
+##### It feels good to feel like you're in full control of what you're doing/making/planning on Linux-based OS.
+
+> I have almost zero-knowledge in programming language however. (Will definitely improve that in the future. Hopefully.)
 
 <!---
 These are templates
